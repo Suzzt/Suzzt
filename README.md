@@ -3,7 +3,7 @@
 欢迎来到我的 GitHub 主页！我是一名java工程师！
 
 ## 目前我正在做两件事
-### [dao-cloud 仓库](https://github.com/Suzzt/dao-cloud)
+### [dao-cloud](https://github.com/Suzzt/dao-cloud)
 一个基于 Spring Boot 的微服务架构解决方案，提供分布式服务的日志追踪和管理功能。该项目旨在为开发者提供高效、可扩展的服务架构，适用于多种场景的分布式系统。为什么要写？？？因为它够轻量！
 
 ### [dao-bi](https://github.com/Suzzt/dao-bi)
