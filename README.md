@@ -1,6 +1,6 @@
-# 你好，我是Suzzt 👋
+# 你好，我是Suzzt 😊！
 
-欢迎来到我的 GitHub 主页！我是一名java工程师！
+欢迎来到我的 GitHub 主页！我是一名java工程师👋！
 
 ## 目前我正在做两件事
 ### [dao-cloud](https://github.com/Suzzt/dao-cloud)
