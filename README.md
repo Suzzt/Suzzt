@@ -1,5 +1,6 @@
 <h2 align="center">Hi 👋, I'm Suzzt</h1>
-<h4 align="center">欢迎来到我的主页！我是一名 java 工程师 😊！</h4>
+<h4 align="center">Welcome to my homepage! I am a Java engineer 😊！</h4>
+
 ![亮色](https://raw.githubusercontent.com/Suzzt/Suzzt/output/github-contribution-grid-snake.svg)
 
 ## 目前我正在做两件事
