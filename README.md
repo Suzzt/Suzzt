@@ -1,9 +1,7 @@
 # 你好，我是Suzzt 😊！
 
 欢迎来到我的 GitHub 主页！我是一名java工程师👋！
-
 ![亮色](https://raw.githubusercontent.com/Suzzt/Suzzt/output/github-contribution-grid-snake.svg)
-
 
 ## 目前我正在做两件事
 ### [dao-cloud](https://github.com/Suzzt/dao-cloud)
