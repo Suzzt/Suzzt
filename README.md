@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Suzzt</h1>
-<h4 align="center">Welcome,  I am a Java engineer 😊</h4>
+<h4 align="center">Welcome,  I'm a Java engineer 😊</h4>
 <div align="center">
     <img src="/media/pic/parrots/githubparrot.webp" width="25" height="25"/>
     <img src="/media/pic/parrots/iranparrot.webp" width="25" height="25"/>
